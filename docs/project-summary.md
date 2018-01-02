@@ -33,8 +33,8 @@
 * Factory
   * **NPM Library**
     * eg. _Utility_
-    * eg. \*UI Library\*
-    * eg. \*Microservice\*
+    * eg. _UI Library_
+    * eg. _Microservice_
 
 ### Wrigley-Generators
 
